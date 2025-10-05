@@ -1,157 +1,112 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=65&fontAlignY=50&stroke=FFFFFF&strokeWidth=1&animation=fadeIn&desc=Hey%20there!%20I%E2%80%99m%20Ilham%20%F0%9F%91%8B&descSize=40&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
-
-<p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
-</p>
-
-## :dart: About ##
-
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
-
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://tailwindcss.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
 
 ###
 
-<details>
-  <summary>See more</summary>
+<h1 align="center">ABOUT ME</h1>
 
-  ###
+###
 
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
+<br clear="both">
 
-</details>
+<img align="right" height="149" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJhNHE5c2IxbjZ1ZzIwcmllYXJzZXV5dGR4bjB5ZWM5aTk0bjhuaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/heIX5HfWgEYlW/giphy.gif"  />
 
-## :white_check_mark: Requirements ##
+###
 
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
+<p align="left">An Information Systems student with a strong interest in web and mobile development. I love turning ideas into interactive and useful digital experiences. I’m currently exploring React, Vue, and Flutter to sharpen my front-end and mobile skills, while also learning how to build scalable back-end systems with Node.js and Express. I enjoy working on side projects where I can experiment with new tools, design clean interfaces, and improve performance. I believe that the best way to learn is by building and I’m always looking for new opportunities to collaborate and grow as a developer.<br><br>Let’s connect, share knowledge, and build something awesome together!🔥</p>
 
-## :checkered_flag: Starting ##
+###
 
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-rmdhn/iam-rmdhn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-rmdhn/iam-rmdhn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iam-rmdhn/iam-rmdhn/output/pacman-contribution-graph.svg">
+</picture>
 
-# Access
-$ cd profile-readme-generator
+###
 
-# Install dependencies
-$ yarn
+<h1 align="center">MY ACTIVITY</h1>
 
-# Run the project
-$ yarn dev
+###
 
-# The server will initialize in the <http://localhost:3000>
-```
+<br clear="both">
 
-## :video_game: Scripts
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-rmdhn&radius=11&theme=redical&area=false&order=5&hide_title=false&hide_border=true" height="200" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-rmdhn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
+###
 
-## :memo: License ##
+<h1 align="center">MY TECH STACK</h1>
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=alpinejs" height="40" alt="alpinelinux logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+###
 
-&#xa0;
+<h2 align="center">VISITOR</h2>
 
-<a href="#top">Back to top</a>
+###
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+<div align="center">
+  <img src="https://count.getloli.com/@:iam-rmdhn?theme=normal-2&padding=4&scale=0.2&align=center&pixelated=0&darkmode=auto"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Thanks%20for%20coming%F0%9F%94%A5&descSize=30&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
